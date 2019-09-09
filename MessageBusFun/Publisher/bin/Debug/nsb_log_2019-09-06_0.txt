@@ -1,0 +1,6 @@
+﻿2019-09-06 10:45:57.653 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-06 10:45:57.968 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-06 11:23:20.052 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-06 11:23:20.352 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+

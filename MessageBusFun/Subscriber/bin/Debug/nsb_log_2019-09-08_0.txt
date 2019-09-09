@@ -1,0 +1,103 @@
+﻿2019-09-08 11:49:46.976 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 11:49:47.292 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 11:57:23.547 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 11:57:23.835 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 12:40:20.429 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 12:40:20.638 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 14:37:41.541 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 14:37:41.857 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 15:05:23.159 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 15:05:23.428 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 15:07:41.067 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 15:07:41.430 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 15:12:40.101 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 15:12:40.388 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 15:14:11.220 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 15:14:11.608 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 15:15:20.210 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 15:15:20.461 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 15:16:57.643 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 15:16:57.899 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 15:23:09.040 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 15:23:09.313 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 18:20:00.586 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 18:20:00.849 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 21:21:51.044 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 21:21:51.298 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 21:22:11.001 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 9dd3dc77-4975-4d3f-bc84-23580cb3e018 + ChannelName = ChannelOne
+2019-09-08 21:32:28.835 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 21:32:29.154 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 21:32:44.256 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = d38af899-255b-46f8-9960-35e9b6f5ee32 + ChannelName = ChannelOne
+2019-09-08 21:33:24.378 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message 7a110d77-1088-41d9-b77a-128aba13c69b from ChannelName... ChannelOne.
+2019-09-08 21:35:09.131 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 21:35:09.416 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 21:35:56.043 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 6dc4f49d-2cd7-4ba9-82ec-ec7c2a656c4e + ChannelName = ChannelTwo
+2019-09-08 21:37:34.801 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 21:37:35.055 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 21:38:21.894 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 14885887-e9c1-466a-8b97-6aca7f52f22b + ChannelName = ChannelOne
+2019-09-08 22:11:27.570 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 22:11:27.807 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:12:17.688 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 22:12:17.986 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:14:16.590 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 22:14:16.868 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:15:45.171 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 22:15:45.510 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:15.625 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = e53b37cd-eaba-4651-989b-ce477ce57e22 + ChannelName = ChannelOne
+2019-09-08 22:23:51.991 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 22:23:52.261 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:25:34.905 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 22:25:35.222 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:38:22.678 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 22:38:22.891 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:38:38.473 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = b909de20-cd40-46f5-8474-eedd072e73fa + ChannelName = ChannelOne
+2019-09-08 22:43:58.639 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 22:43:58.893 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:44:17.938 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = b8bc9eb5-c724-449b-883d-794dcf37b616 + ChannelName = ChannelOne
+2019-09-08 22:51:02.538 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 22:51:02.780 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:51:53.539 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = a81dbf1e-77f5-4da4-8876-0cfdced584ee + ChannelName = ChannelOne
+2019-09-08 22:52:14.342 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message 7e9f108b-2a49-4c52-91c2-7a5e0ad1b435 from ChannelName... ChannelOne.
+2019-09-08 22:54:40.959 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 22:54:41.189 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:57:32.122 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 22:57:32.342 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:57:50.488 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 557cc84c-b5d9-43a6-831a-907a0f5f944e + ChannelName = ChannelTwo
+2019-09-08 22:59:05.112 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 22:59:05.492 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:59:17.272 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = f67a5c41-4d1d-42c3-a266-d4bb6bf5ce77 + ChannelName = ChannelTwo
+2019-09-08 22:59:35.141 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message f545eff2-21b4-4049-8170-0d964c3b4334 from ChannelName... ChannelOne.
+2019-09-08 23:07:52.797 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 23:07:53.123 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 23:45:46.367 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-08 23:45:46.621 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+

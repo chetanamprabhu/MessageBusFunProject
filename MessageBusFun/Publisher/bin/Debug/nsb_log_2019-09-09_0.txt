@@ -1,0 +1,10 @@
+﻿2019-09-09 00:13:14.872 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 00:13:15.227 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 00:13:25.283 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = ea85b083-800c-441d-befa-c09138092ef3
+2019-09-09 00:13:55.403 INFO  PublisherOne.RegisterPublisherHandler Received Deregistration request, ChannelName = 'ChannelOne' 
+2019-09-09 00:14:49.700 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 00:14:50.244 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 00:14:57.519 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 36c1ad5e-ac1a-40f9-a572-cfc73dfa412e
+2019-09-09 00:15:10.048 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...

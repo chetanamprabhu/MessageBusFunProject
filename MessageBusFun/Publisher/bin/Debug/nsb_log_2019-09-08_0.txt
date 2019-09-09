@@ -1,0 +1,381 @@
+﻿2019-09-08 11:49:46.350 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 11:49:46.683 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 11:57:23.179 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 11:57:23.465 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 12:40:19.816 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 12:40:20.084 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 14:37:41.148 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 14:37:41.573 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 15:05:22.866 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 15:05:23.285 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 15:05:36.823 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 6c0933d8-4b07-427a-8b48-5c8d5cc8d0f4
+2019-09-08 15:07:40.692 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 15:07:40.986 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 15:07:54.179 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 6a09ec97-54a9-49ed-9ac8-539c54114968
+2019-09-08 15:12:39.746 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 15:12:40.073 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 15:12:50.913 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 560e2c51-c12e-4bda-a82b-ad29c0cb7e7f
+2019-09-08 15:13:03.663 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 29074825-9f35-4e15-99bb-7da75b9c48d2
+2019-09-08 15:14:10.608 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 15:14:10.866 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 15:15:19.844 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 15:15:20.112 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 15:15:28.865 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 852a725b-2287-43dd-8369-78abf59f3dae
+2019-09-08 15:16:57.170 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 15:16:57.499 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 15:17:03.004 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 58ee6a17-1a00-4b2a-bba3-c7cb8ee76e20
+2019-09-08 15:23:08.605 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 15:23:08.881 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 15:23:18.209 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 6dc26163-7343-4f1d-8a50-c5ebd132532d
+2019-09-08 18:20:00.023 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 18:20:00.291 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 18:20:15.647 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 83c7fd4d-df56-4a21-9ca2-83714601589a
+2019-09-08 21:21:50.439 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 21:21:50.680 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 21:22:01.653 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 60c4bfb4-153b-4195-b045-dd1db1d2016d
+2019-09-08 21:22:11.238 INFO  Publisher.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 21:32:28.284 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 21:32:28.543 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 21:32:38.162 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 3cf0df42-e509-4345-b6d2-59fef4991b96
+2019-09-08 21:32:44.473 INFO  Publisher.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 21:33:08.853 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-08 21:33:24.354 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-09-08 21:35:08.110 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 21:35:08.678 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 21:35:43.143 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 6d9b41a1-ae20-4b95-9ed4-0e1d89809ae5
+2019-09-08 21:37:34.003 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 21:37:34.373 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 21:38:16.057 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 6073eff7-4e40-4aa9-846a-8c5259ba4a30
+2019-09-08 21:38:22.118 INFO  Publisher.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 21:38:55.370 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-08 22:11:27.130 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 22:11:27.515 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:27.942 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:28.048 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:28.147 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:28.220 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:28.309 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:28.383 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:28.480 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:28.544 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:28.608 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:28.677 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:28.758 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:28.816 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:28.901 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:28.961 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:29.027 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:29.110 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:29.752 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:29.811 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:30.764 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:30.833 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:31.751 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:31.839 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:32.749 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:32.810 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:34.767 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:34.847 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:35.750 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:35.816 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:36.750 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:36.810 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:37.751 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:37.808 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:38.753 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:38.810 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:39.750 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:39.814 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:40.759 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:40.815 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:11:41.752 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:11:41.822 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:12:16.949 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 22:12:17.300 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:12:17.851 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:12:17.948 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:12:18.069 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:12:18.147 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:12:18.264 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:12:18.351 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:12:18.427 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:12:18.512 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:12:18.635 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:12:18.733 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:12:18.813 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:12:18.874 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:12:18.944 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:12:19.010 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:12:19.077 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:12:19.143 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:12:20.081 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:12:20.143 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:12:21.080 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:12:21.149 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:12:23.055 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:12:23.117 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:12:24.086 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:12:24.145 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:12:25.082 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:12:25.148 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:14:16.196 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 22:14:16.502 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:14:16.957 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:15:44.614 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 22:15:44.878 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:06.009 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = c4571044-0194-4df4-8266-6b2666ec924f
+2019-09-08 22:16:15.840 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:15.906 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:15.974 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:16.025 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:16.132 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:16.197 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:16.293 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:16.355 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:16.442 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:16.512 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:16.579 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:16.646 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:16.727 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:16.782 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:17.433 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:17.501 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:18.441 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:18.498 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:19.464 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:19.554 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:20.436 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:20.508 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:21.430 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:21.510 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:21.582 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:21.642 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:22.430 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:22.499 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:23.446 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:23.525 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:24.440 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:24.511 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:25.431 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:25.483 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:26.446 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:26.505 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:28.434 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:28.495 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:29.429 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:29.489 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:30.433 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:30.507 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:31.428 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:31.483 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:32.434 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:32.510 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:33.434 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:33.497 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:34.430 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:34.493 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:36.440 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:36.505 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:37.439 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:37.508 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:38.429 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:38.510 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:39.430 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:39.485 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:40.434 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:40.490 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:41.449 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:41.513 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:42.432 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:42.518 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:43.435 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:43.497 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:44.446 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:44.544 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:45.448 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:45.534 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:46.438 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:46.509 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:47.431 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:47.492 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:48.438 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:48.498 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:49.448 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:49.516 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:50.430 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:50.498 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:51.442 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:51.513 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:51.612 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:51.677 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:51.751 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:51.829 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:51.894 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:51.951 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:52.029 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:52.095 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:52.175 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:52.238 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:52.304 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:52.358 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:52.428 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:52.499 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:52.585 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:52.653 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:53.439 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:53.522 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:54.443 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:54.523 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:16:55.439 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:16:55.504 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:23:51.422 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 22:23:51.756 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:23:52.031 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-08 22:23:52.263 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-09-08 22:25:34.491 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 22:25:34.783 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:25:35.322 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = cd10d019-dc20-4603-b882-f445f95ed7f5
+2019-09-08 22:25:35.574 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:38:21.974 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 22:38:22.462 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:38:30.982 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 294ebcec-7d48-4cd1-b64b-749856c5ac1e
+2019-09-08 22:38:38.672 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:39:16.012 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-08 22:43:57.965 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 22:43:58.260 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:44:14.464 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 0cd7874b-23c8-4594-b097-763692381ca9
+2019-09-08 22:44:18.157 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:44:47.876 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-08 22:51:01.771 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 22:51:02.073 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:51:11.748 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = de201740-3ff9-4db8-9248-dfa077b3376a
+2019-09-08 22:51:53.877 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-08 22:52:03.504 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-08 22:52:14.369 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-09-08 22:54:40.297 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 22:54:40.598 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:57:31.551 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 22:57:31.818 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 22:59:04.786 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 22:59:05.135 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 23:07:52.178 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 23:07:52.452 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 23:45:45.844 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-08 23:45:46.196 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-08 23:46:03.473 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 09057bb5-1e1f-41c6-8feb-bbee8d00e7ca
+2019-09-08 23:46:44.762 INFO  PublisherOne.RegisterPublisherHandler Received Deregistration request, ChannelName = 'ChannelOne' 

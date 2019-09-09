@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0665E9F7-6318-4D30-B2A2-12EB2DCF9423}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MessageBusFun.Core.Tests</RootNamespace>
+    <AssemblyName>MessageBusFun.Core.Tests</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\ConsoleApp1\Consumer.csproj">
+      <Project>{3392fd99-f00e-4999-9296-70e51ee5bec9}</Project>
+      <Name>Consumer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ConsoleApp2\PublisherTwo.csproj">
+      <Project>{9afd2efd-b56f-4a17-bb98-ab5abb863287}</Project>
+      <Name>PublisherTwo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Publisher\PublisherOne.csproj">
+      <Project>{d3b661a1-b66d-4d65-9e55-3bcd8d583d8f}</Project>
+      <Name>PublisherOne</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\src\MessageBusFun.Core\MessageBusFun.csproj">
+      <Project>{ac874488-c279-49e8-9205-6cd6bcea1ae9}</Project>
+      <Name>MessageBusFun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Subscriber\Subscriber.csproj">
+      <Project>{e1035ff8-0603-41d2-97c0-0270ff171ee4}</Project>
+      <Name>Subscriber</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

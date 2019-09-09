@@ -1,0 +1,1 @@
+<?xml version="1.0"?><RegisterPublisherTwo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/MessageBusFun.Core"><PublisherID>0d40ac75-e6d7-40f3-b119-371980c4abef</PublisherID></RegisterPublisherTwo>

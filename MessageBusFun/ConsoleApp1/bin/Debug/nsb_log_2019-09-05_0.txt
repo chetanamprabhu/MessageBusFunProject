@@ -1,0 +1,27 @@
+﻿2019-09-05 13:17:20.770 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\ConsoleApp1\bin\Debug\' with level Info
+2019-09-05 13:17:22.013 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-05 13:17:22.423 INFO  ConsoleApp1.Program Press 'R' to Register, 'U' to Unregister or 'Q' to quit.
+2019-09-05 13:17:36.890 INFO  ConsoleApp1.Program Press 'P' to Register a Publisher, 'S' to Register a Subscriber
+2019-09-05 13:17:40.797 INFO  ConsoleApp1.Program Requesting registration, PublisherID = e9fd9cc6-5719-4046-b57b-cc4898a3ce1a
+2019-09-05 13:17:40.949 INFO  ConsoleApp1.Program Press 'R' to Register, 'U' to Unregister or 'Q' to quit.
+2019-09-05 13:17:41.649 INFO  Channel.PublisherRegisteredHandler Publisher Registered successfilly..., NominatedChannelName = ChannelOne
+2019-09-05 13:18:51.155 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\ConsoleApp1\bin\Debug\' with level Info
+2019-09-05 13:18:51.738 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-05 13:18:52.144 INFO  ConsoleApp1.Program Press 'R' to Register, 'U' to Unregister or 'Q' to quit.
+2019-09-05 13:18:59.284 INFO  ConsoleApp1.Program Press 'P' to Register a Publisher, 'S' to Register a Subscriber
+2019-09-05 13:19:01.786 INFO  ConsoleApp1.Program Requesting registration, PublisherID = 576b889a-c5c5-4582-a4a0-2b7b7eb12080
+2019-09-05 13:19:01.899 INFO  ConsoleApp1.Program Press 'R' to Register, 'U' to Unregister or 'Q' to quit.
+2019-09-05 13:19:02.403 INFO  Channel.PublisherRegisteredHandler Publisher Registered successfilly..., NominatedChannelName = ChannelOne
+2019-09-05 22:15:58.743 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\ConsoleApp1\bin\Debug\' with level Info
+2019-09-05 22:15:59.933 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-05 22:16:00.142 INFO  ConsoleApp1.Program Press 'R' to Register, 'U' to Unregister or 'Q' to quit.
+2019-09-05 22:16:12.649 INFO  ConsoleApp1.Program Press 'P' to Register a Publisher, 'S' to Register a Subscriber
+2019-09-05 22:16:15.029 INFO  ConsoleApp1.Program Requesting registration, SubscriberID = 1ce3a52a-cc86-4189-ab75-990b32975476SubscriberName = {command.SubscriberName)
+2019-09-05 22:16:15.312 INFO  ConsoleApp1.Program Press 'R' to Register, 'U' to Unregister or 'Q' to quit.
+2019-09-05 22:47:11.050 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\ConsoleApp1\bin\Debug\' with level Info
+2019-09-05 22:47:11.771 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-05 22:47:12.158 INFO  Consumer.Program Press 'R' to Register, 'U' to Unregister or 'Q' to quit.

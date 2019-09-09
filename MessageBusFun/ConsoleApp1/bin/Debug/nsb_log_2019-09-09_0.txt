@@ -1,0 +1,41 @@
+﻿2019-09-09 00:13:13.813 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\ConsoleApp1\bin\Debug\' with level Info
+2019-09-09 00:13:14.523 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 00:13:14.891 INFO  Consumer.Program Press 'R' to Register, 'D' to Deregister, 'L' to View list of available channels or 'Q' to quit.
+2019-09-09 00:13:20.154 INFO  Consumer.Program Press 'P' to Register a Publisher, 'S' to Register a Subscriber
+2019-09-09 00:13:22.637 INFO  Consumer.Program Press 'F' to Register PublsiherOne and 'S' to Register PublisherTwo
+2019-09-09 00:13:24.970 INFO  Consumer.Program Requesting registration, PublisherID = ea85b083-800c-441d-befa-c09138092ef3
+2019-09-09 00:13:25.129 INFO  Consumer.Program Press 'R' to Register, 'D' to Deregister, 'L' to View list of available channels or 'Q' to quit.
+2019-09-09 00:13:25.679 INFO  Channel.PublisherRegisteredHandler Publisher Registered successfully..., NominatedChannelName = ChannelOne
+2019-09-09 00:13:36.981 INFO  Consumer.Program Press 'P' to Register a Publisher, 'S' to Register a Subscriber
+2019-09-09 00:13:39.368 INFO  Consumer.Program Press 'F' to Register PublsiherOne and 'S' to Register PublisherTwo
+2019-09-09 00:13:40.928 INFO  Consumer.Program Requesting registration, PublisherID = b0de77cd-dae6-4756-a83a-195579ae4ad8
+2019-09-09 00:13:40.977 INFO  Consumer.Program Press 'R' to Register, 'D' to Deregister, 'L' to View list of available channels or 'Q' to quit.
+2019-09-09 00:13:41.547 INFO  Channel.PublisherRegisteredHandler Publisher Registered successfully..., NominatedChannelName = ChannelTwo
+2019-09-09 00:13:46.553 INFO  Consumer.Program Press 'P' to Deregister a Publisher, 'S' to Deregister a Subscriber
+2019-09-09 00:13:48.984 INFO  Consumer.Program Press 'F' to Deregister PublsiherOne and 'S' to Deegister PublisherTwo
+2019-09-09 00:13:55.319 INFO  Consumer.Program Requesting deregistration of Publiser.... PublisherOne
+2019-09-09 00:13:55.380 INFO  Consumer.Program Press 'R' to Register, 'D' to Deregister, 'L' to View list of available channels or 'Q' to quit.
+2019-09-09 00:13:55.531 INFO  ConsoleApp1.PublisherDeregisteredHandler Publisher Deregistered successfully..., ChannelName = ChannelOne
+2019-09-09 00:14:48.284 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\ConsoleApp1\bin\Debug\' with level Info
+2019-09-09 00:14:49.129 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 00:14:49.745 INFO  Consumer.Program Press 'R' to Register, 'D' to Deregister, 'L' to View list of available channels or 'Q' to quit.
+2019-09-09 00:14:52.918 INFO  Consumer.Program Press 'P' to Register a Publisher, 'S' to Register a Subscriber
+2019-09-09 00:14:55.573 INFO  Consumer.Program Press 'F' to Register PublsiherOne and 'S' to Register PublisherTwo
+2019-09-09 00:14:57.219 INFO  Consumer.Program Requesting registration, PublisherID = 36c1ad5e-ac1a-40f9-a572-cfc73dfa412e
+2019-09-09 00:14:57.344 INFO  Consumer.Program Press 'R' to Register, 'D' to Deregister, 'L' to View list of available channels or 'Q' to quit.
+2019-09-09 00:14:57.820 INFO  Channel.PublisherRegisteredHandler Publisher Registered successfully..., NominatedChannelName = ChannelOne
+2019-09-09 00:14:58.814 INFO  Consumer.Program Press 'P' to Register a Publisher, 'S' to Register a Subscriber
+2019-09-09 00:15:00.817 INFO  Consumer.Program Press 'F' to Register PublsiherOne and 'S' to Register PublisherTwo
+2019-09-09 00:15:02.257 INFO  Consumer.Program Requesting registration, PublisherID = f5c333a3-2477-4a19-910a-53a33bcca974
+2019-09-09 00:15:02.310 INFO  Consumer.Program Press 'R' to Register, 'D' to Deregister, 'L' to View list of available channels or 'Q' to quit.
+2019-09-09 00:15:02.740 INFO  Channel.PublisherRegisteredHandler Publisher Registered successfully..., NominatedChannelName = ChannelTwo
+2019-09-09 00:15:04.683 INFO  Consumer.Program Please find below the list of available channels....
+2019-09-09 00:15:04.693 INFO  Consumer.Program Press 'R' to Register, 'D' to Deregister, 'L' to View list of available channels or 'Q' to quit.
+2019-09-09 00:15:07.686 INFO  Consumer.Program Press 'P' to Register a Publisher, 'S' to Register a Subscriber
+2019-09-09 00:15:09.667 INFO  Consumer.Program Subscriber will be subscribed to the below available channels...
+2019-09-09 00:15:09.675 INFO  Consumer.Program Requesting registration, SubscriberID = b403aa0d-5a00-4672-9ded-f40ac076b1cd, ChannelName = ChannelOne
+2019-09-09 00:15:09.728 INFO  Consumer.Program Requesting registration, SubscriberID = 2be14196-6db6-4069-b9a6-9e929a789834, ChannelName = ChannelTwo
+2019-09-09 00:15:09.773 INFO  Consumer.Program Press 'R' to Register, 'D' to Deregister, 'L' to View list of available channels or 'Q' to quit.
+2019-09-09 00:15:10.024 INFO  ConsoleApp1.SubscriberRegisteredHandler Subscriber Registered successfully.... ChannelName registered to: ChannelOne...
