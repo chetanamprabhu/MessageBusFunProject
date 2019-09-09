@@ -11,6 +11,7 @@ namespace Subscriber
     class Program
     {
         public static bool IsSubscriberRegistered { get; set; }
+        public static bool IsChannelOneSubReg { get; set; }
         static void Main()
         {
             AsyncMain().GetAwaiter().GetResult();
@@ -24,6 +25,13 @@ namespace Subscriber
             var endpointConfiguration = new EndpointConfiguration("Subscriber");
 
             var transport = endpointConfiguration.UseTransport<LearningTransport>();
+
+            var routing = transport.Routing();
+            routing.RouteToEndpoint(typeof(MessageBusFun.Core.SubscriberRegistered), "PublisherOne");
+            routing.RouteToEndpoint(typeof(MessageBusFun.Core.SubscriberRegistered), "Consumer");
+            routing.RouteToEndpoint(typeof(MessageBusFun.Core.SubscriberRegistered), "PublisherTwo");
+
+
 
             var endpointInstance = await Endpoint.Start(endpointConfiguration)
             .ConfigureAwait(false);

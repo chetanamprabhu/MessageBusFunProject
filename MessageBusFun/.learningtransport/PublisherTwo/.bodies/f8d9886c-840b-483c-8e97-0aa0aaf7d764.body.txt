@@ -1,0 +1,1 @@
+<?xml version="1.0"?><SubscriberRegistered xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/MessageBusFun.Core"><SubscriberID>fb0900b4-c181-4d03-a1a1-599a6f58c8fa</SubscriberID><ChannelName>ChannelTwo</ChannelName></SubscriberRegistered>

@@ -4,3 +4,9 @@ C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\test\Me
 C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\test\MessageBusFun.Core.Tests\obj\Debug\MessageBusFun.Core.Tests.dll
 C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\test\MessageBusFun.Core.Tests\obj\Debug\MessageBusFun.Core.Tests.pdb
 C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\test\MessageBusFun.Core.Tests\obj\Debug\MessageBusFun.Tests.csprojAssemblyReference.cache
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\test\MessageBusFun.Core.Tests\bin\Debug\MessageBusFun.Core.Tests.dll
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\test\MessageBusFun.Core.Tests\bin\Debug\MessageBusFun.Core.Tests.pdb
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\test\MessageBusFun.Core.Tests\obj\Debug\MessageBusFun.Tests.csprojAssemblyReference.cache
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\test\MessageBusFun.Core.Tests\obj\Debug\MessageBusFun.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\test\MessageBusFun.Core.Tests\obj\Debug\MessageBusFun.Core.Tests.dll
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\test\MessageBusFun.Core.Tests\obj\Debug\MessageBusFun.Core.Tests.pdb

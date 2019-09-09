@@ -8,3 +8,13 @@ C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\src\Mes
 C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\src\MessageBusFun.Core\bin\Debug\NServiceBus.Core.pdb
 C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\src\MessageBusFun.Core\bin\Debug\NServiceBus.Core.xml
 C:\Users\Chetana.Prabhu\Desktop\BEAZLEYGroup\MessageBusFun\MessageBusFun\src\MessageBusFun.Core\obj\Debug\MessageBusFun.csproj.CopyComplete
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\src\MessageBusFun.Core\bin\Debug\MessageBusFun.Core.dll
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\src\MessageBusFun.Core\bin\Debug\MessageBusFun.Core.pdb
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\src\MessageBusFun.Core\bin\Debug\NServiceBus.Core.dll
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\src\MessageBusFun.Core\bin\Debug\NServiceBus.Core.pdb
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\src\MessageBusFun.Core\bin\Debug\NServiceBus.Core.xml
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\src\MessageBusFun.Core\obj\Debug\MessageBusFun.csprojAssemblyReference.cache
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\src\MessageBusFun.Core\obj\Debug\MessageBusFun.csproj.CoreCompileInputs.cache
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\src\MessageBusFun.Core\obj\Debug\MessageBusFun.csproj.CopyComplete
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\src\MessageBusFun.Core\obj\Debug\MessageBusFun.Core.dll
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\src\MessageBusFun.Core\obj\Debug\MessageBusFun.Core.pdb

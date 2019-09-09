@@ -14,8 +14,15 @@ namespace Subscriber
 
         public Task Handle(MessageBusFun.Core.SendMessageSubscribed message, IMessageHandlerContext context)
         {
-            log.Info($"Subscriber has received message {message.MessageID} from ChannelName... {message.ChannelName}.");
-            return Task.CompletedTask;
+            if (Program.IsSubscriberRegistered)
+            {
+                log.Info($"Subscriber has received message {message.MessageID} from ChannelName... {message.ChannelName}.");
+                return Task.CompletedTask;
+            }
+            else
+            {
+                return Task.CompletedTask;
+            }
         }
     }
 }

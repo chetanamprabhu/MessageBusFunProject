@@ -8,3 +8,584 @@
 
 2019-09-09 00:14:57.519 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 36c1ad5e-ac1a-40f9-a572-cfc73dfa412e
 2019-09-09 00:15:10.048 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-09 15:14:19.967 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 15:14:20.452 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 15:14:28.853 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = fe5504bc-f711-4982-958f-e18a8a8bc42d
+2019-09-09 15:14:34.200 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... message.ChannelName...
+2019-09-09 15:15:46.063 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-09 15:15:55.133 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-09-09 15:43:16.467 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 15:43:16.808 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 15:43:25.646 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = a9c71b56-58cf-4509-a16c-ac2024bab271
+2019-09-09 15:43:28.481 INFO  PublisherOne.SubscriberRegisteredHandler Thank you for registering to our Channel... ChannelOne...
+2019-09-09 15:43:41.323 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-09 16:27:41.377 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 16:27:41.739 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:27:42.108 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-09 16:27:42.335 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-09-09 16:28:50.087 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 16:28:50.404 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:28:50.997 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = d05627df-70fc-431a-b055-63c1601730e2
+2019-09-09 16:31:43.125 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 16:31:43.447 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:31:54.138 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 616e3d97-5574-491d-a150-73be8e4da639
+2019-09-09 16:32:01.719 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:01.858 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:01.965 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:02.089 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:03.775 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:05.757 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:07.766 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:09.746 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:11.757 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:13.758 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:15.755 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:17.756 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:20.722 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:22.755 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:24.757 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:24.885 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-09 16:32:25.754 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:32:27.755 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:12:31.344 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 17:12:31.760 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:12:41.602 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 097cf41f-6723-42a9-9a8b-ce1c4835e0de
+2019-09-09 17:13:23.985 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:24.158 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:24.415 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:24.590 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:24.809 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:25.026 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:26.698 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:28.597 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:30.568 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:32.566 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:34.569 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:35.598 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:37.579 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:39.569 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:41.593 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:43.580 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:45.581 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:47.609 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:49.577 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:51.492 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-09 17:13:51.820 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:52.568 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:54.614 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:57.581 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:13:59.615 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:14:01.589 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:14:03.587 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:14:05.645 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:14:07.636 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:14:09.663 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:14:11.641 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:14:13.665 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:14:15.655 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:14:18.590 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:17:20.025 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 17:17:20.385 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:18:04.245 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = aa520cc1-885e-421b-8191-2a638eced3f7
+2019-09-09 17:30:31.042 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 17:30:31.462 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:57:59.071 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 17:57:59.362 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:58:33.836 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 17:58:34.243 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:59:45.258 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 17:59:45.566 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 18:00:53.939 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 18:00:54.370 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 18:00:54.667 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-09 18:00:54.855 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-09-09 18:03:17.004 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 18:03:17.331 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:11.709 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 19:36:13.721 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:25.340 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = cd6b62b0-ebc2-4c23-9d0d-c2fa831f0bf2
+2019-09-09 19:36:35.709 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:35.875 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:36.019 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:36.147 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:36.269 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:36.432 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:36.571 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:38.165 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:40.163 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:42.167 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:44.167 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:46.157 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:48.164 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:50.174 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:37:33.910 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 19:37:34.221 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:37:57.551 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = dad3ef6c-3f64-4630-ae4d-4e44c55304df
+2019-09-09 19:38:01.790 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:38:01.956 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:38:02.169 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:38:02.373 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:38:02.586 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:38:02.785 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:38:02.960 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:38:03.154 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:38:05.321 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:38:07.281 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:38:09.285 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:38:11.283 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:38:13.297 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:38:15.328 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:38:28.107 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 19:38:28.489 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:08.214 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 19:42:08.526 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:17.796 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 9a279407-d927-43a3-a9e1-e0dc554e02a3
+2019-09-09 19:42:23.123 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:23.320 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:23.568 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:23.742 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:23.963 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:25.966 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:27.871 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:29.927 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:31.918 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:33.891 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:35.872 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:38.135 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:39.896 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:41.927 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:44.862 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:46.852 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:48.850 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:51.353 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:53.381 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:55.380 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:57.393 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:59.354 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:43:01.347 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:43:03.366 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:43:05.360 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:43:07.461 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:43:10.329 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:43:10.729 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-09 19:43:11.852 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:43:14.598 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-09 19:43:14.912 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:43:15.552 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-09 19:43:15.923 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:43:17.850 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:43:19.864 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:48:19.278 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 19:48:19.590 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:52:17.009 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 19:52:17.482 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:55:05.748 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 19:55:06.048 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:58:00.642 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 19:58:01.022 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:04:40.949 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 20:04:41.333 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:05:36.370 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = aba8c956-f6c0-4da0-b601-454e262b4d74
+2019-09-09 20:07:14.731 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-09 20:07:14.998 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-09-09 20:07:34.607 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 20:07:35.033 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:07:42.204 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = f3fec3f4-80b1-44a5-a9cc-c371968f6614
+2019-09-09 20:07:57.376 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:07:57.632 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:07:57.877 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:07:58.107 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:08:00.054 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:08:02.063 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:08:04.122 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:08:06.046 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:08:08.107 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:08:10.098 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:08:12.139 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:08:14.093 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:08:16.054 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:08:18.095 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:08:21.111 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:08:23.069 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:08:25.091 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:50:51.586 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 20:50:51.852 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:50:58.768 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = da4be593-4014-429d-8a23-b8fd6e93b6a4
+2019-09-09 20:51:17.750 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:17.987 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:18.213 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:18.380 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:20.316 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:22.219 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:24.279 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:26.266 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:28.227 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:30.200 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:32.242 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:34.253 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:34.525 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:34.702 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:36.849 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:38.727 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:40.755 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:42.690 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:44.690 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:46.782 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:48.736 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:50.680 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:51:52.713 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:08.607 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 20:59:09.211 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:16.893 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 01da84c8-b801-48ab-a259-bf415c4e6929
+2019-09-09 20:59:24.958 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:25.166 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:25.390 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:25.572 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:25.740 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:26.658 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:28.626 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:30.653 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:32.600 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:34.618 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:36.543 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:38.600 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:40.576 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:42.561 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:45.516 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:47.558 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:49.666 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:51.558 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:53.563 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:55.569 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:57.563 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:59.551 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:00:01.605 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:00:03.577 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:00:05.652 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:00:07.607 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:00:10.593 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:00:12.579 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:00:14.581 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:00:16.598 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:00:18.634 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:00:20.745 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:00:22.613 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:00:24.708 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:00:26.590 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:00:28.588 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:00:30.582 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:02:17.442 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 21:02:17.777 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:02:26.752 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = b0dd5028-f3e5-4d1f-8372-8f107758978c
+2019-09-09 21:04:42.614 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 21:04:43.021 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:04:56.010 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 25ea2713-af90-49db-a220-c92264d582a0
+2019-09-09 21:05:07.036 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:07.237 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:07.498 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:07.702 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:07.876 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:08.886 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:10.927 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:12.896 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:14.881 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:16.887 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:18.863 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:19.915 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:20.106 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:20.338 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:21.368 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:23.335 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:05:25.359 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:17:19.534 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 21:17:19.815 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:17:27.628 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 9c55cd01-5628-4b3b-add0-73a6c1bd50c8
+2019-09-09 21:17:31.584 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:17:31.889 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:17:32.053 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:17:32.275 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:17:32.445 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:17:33.241 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:17:35.244 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:17:37.170 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:17:39.207 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:17:41.168 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:17:43.216 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:17:45.285 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:20:15.607 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 21:20:15.975 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:20:25.100 INFO  PublisherOne.RegisterPublisherHandler Received Registration request, PublisherID = 8a09958e-7516-4256-84dd-e6e5ca122813
+2019-09-09 21:20:29.502 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:20:29.669 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:20:29.924 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:20:30.098 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:20:30.262 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:20:31.362 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:20:33.352 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:20:35.333 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:20:37.404 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:20:39.340 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:20:41.404 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:20:43.338 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:20:45.339 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:22:26.432 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Publisher\bin\Debug\' with level Info
+2019-09-09 21:22:26.943 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+

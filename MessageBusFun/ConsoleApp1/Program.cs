@@ -35,8 +35,7 @@ namespace Consumer
             routing.RouteToEndpoint(typeof(MessageBusFun.Core.DeregisterPublisher), "PublisherOne");
             routing.RouteToEndpoint(typeof(MessageBusFun.Core.DeregisterPublisherTwo), "PublisherTwo");
             routing.RouteToEndpoint(typeof(MessageBusFun.Core.DeregisterSubscriber), "Subscriber");
-
-
+          
             var endpointInstance = await Endpoint.Start(endpointConfiguration)
             .ConfigureAwait(false);
 
@@ -110,20 +109,45 @@ namespace Consumer
                                 {
                                     Console.WriteLine("ChannelName: " + channels);
                                 }
+                                log.Info("Available channels count..." + avalableChannels.Count);
 
-                               foreach(var channels in avalableChannels) 
+                                if(avalableChannels.Count == 1)
                                 {
-                                    // Instantiate the command
                                     var command = new MessageBusFun.Core.RegisterSubscriber
                                     {
                                         SubscriberID = Guid.NewGuid().ToString(),
-                                        ChannelName = channels.ToString()
+                                        ChannelName = avalableChannels[0].ToString()
                                     };
                                     // Send the command to the local endpoint
                                     log.Info($"Requesting registration, SubscriberID = {command.SubscriberID}, ChannelName = {command.ChannelName}");
                                     await endpointInstance.Send(command)
                                         .ConfigureAwait(false);
                                 }
+                                else if(avalableChannels.Count == 2)
+                                {
+                                    //var command = new MessageBusFun.Core.RegisterSubscriber
+                                    //{
+                                    //    SubscriberID = Guid.NewGuid().ToString(),
+                                    //    ChannelName = avalableChannels[0].ToString()
+                                    //};
+                                    //// Send the command to the local endpoint
+                                    //log.Info($"Requesting registration, SubscriberID = {command.SubscriberID}, ChannelName = {command.ChannelName}");
+                                    //await endpointInstance.Send(command)
+                                    //    .ConfigureAwait(false);
+
+                                    var commandTwo = new MessageBusFun.Core.RegisterSubscriber
+                                    {
+                                        SubscriberID = Guid.NewGuid().ToString(),
+                                        ChannelName = avalableChannels[1].ToString()
+                                    };
+                                    // Send the command to the local endpoint
+                                    log.Info($"Requesting registration, SubscriberID = {commandTwo.SubscriberID}, ChannelName = {commandTwo.ChannelName}");
+                                    await endpointInstance.Send(commandTwo)
+                                        .ConfigureAwait(false);
+
+                                }
+
+                             
                             }
                             else
                             {

@@ -1,0 +1,14 @@
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Consumer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Consumer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Consumer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Consumer.Tests\bin\Debug\Consumer.Tests.dll
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Consumer.Tests\bin\Debug\Consumer.Tests.pdb
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Consumer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Consumer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Consumer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Consumer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Consumer.Tests\obj\Debug\Consumer.Tests.csprojAssemblyReference.cache
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Consumer.Tests\obj\Debug\Consumer.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Consumer.Tests\obj\Debug\Consumer.Tests.csproj.CopyComplete
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Consumer.Tests\obj\Debug\Consumer.Tests.dll
+C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Consumer.Tests\obj\Debug\Consumer.Tests.pdb

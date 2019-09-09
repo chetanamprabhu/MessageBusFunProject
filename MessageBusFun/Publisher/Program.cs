@@ -14,7 +14,7 @@ namespace PublisherOne
         public static bool isSubscriberRegistered = false;
         public static bool isChannelOneRegistered = false;
 
-        static void Main()
+        public static void Main()
         {
             AsyncMain().GetAwaiter().GetResult();
         }
@@ -35,14 +35,68 @@ namespace PublisherOne
             var endpointInstance = await Endpoint.Start(endpointConfiguration)
             .ConfigureAwait(false);
 
-            Console.WriteLine("Press Enter to exit...");
-            Console.ReadLine();
+            await Start(endpointInstance)
+          .ConfigureAwait(false);
 
             await endpointInstance.Stop()
            .ConfigureAwait(false);
 
         }
 
-       
+        static async Task Start(IEndpointInstance endpointInstance)
+        {
+            while (true)
+            {
+                Console.WriteLine("Press '1' to publish the SendMessage event");
+                Console.WriteLine("Press any other key to exit");
+
+                #region PublishLoop
+
+
+                var key = Console.ReadKey();
+                Console.WriteLine();
+
+                var orderReceivedId = Guid.NewGuid();
+                if (key.Key == ConsoleKey.D1)
+                {
+                    var messageSend = new MessageBusFun.Core.SendMessageSubscribed
+                    {
+                        MessageID = orderReceivedId,
+                        ChannelName = "ChannelOne"
+                    };
+                    await endpointInstance.Publish(messageSend)
+                        .ConfigureAwait(false);
+                    Console.WriteLine($"Published SendMessage Event with Id {orderReceivedId}.");
+                }
+                else
+                {
+                    return;
+                }
+            }
+            #endregion          
+
+        }
+
+
+    }
+    class SubscriberRegisteredHandler : IHandleMessages<MessageBusFun.Core.SubscriberRegistered>
+    {
+        static ILog log = LogManager.GetLogger<SubscriberRegisteredHandler>();
+        public Task Handle(MessageBusFun.Core.SubscriberRegistered message, IMessageHandlerContext context)
+        {
+            Program.isSubscriberRegistered = true;
+            if (message.ChannelName == "ChannelOne" && PublisherOne.Program.isChannelOneRegistered && PublisherOne.Program.isSubscriberRegistered)
+            {
+                Console.WriteLine($"Thank you for registering to our Channel... {message.ChannelName}...");
+                Program.Main();
+                return Task.CompletedTask;
+
+            }
+            else
+            {
+                return Task.CompletedTask;
+            }
+        }
+
     }
 }

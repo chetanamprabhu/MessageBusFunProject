@@ -15,3 +15,228 @@
 2019-09-09 00:15:02.875 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelTwo
 2019-09-09 00:15:02.878 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelTwo has become available...
 2019-09-09 00:15:09.768 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = b403aa0d-5a00-4672-9ded-f40ac076b1cd + ChannelName = ChannelOne
+2019-09-09 15:14:20.616 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 15:14:21.028 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 15:14:29.373 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 15:14:29.380 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 15:14:33.856 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 2152b7b9-ab5c-437b-bad1-6b9635c9735e + ChannelName = ChannelOne
+2019-09-09 15:14:52.716 INFO  Subscriber.DeregisterSubscriberHandler Received Deregistration request for Subscriber requestID... 36cb3d1b-85f4-414c-8e48-0f7748a1a2bd 
+2019-09-09 15:43:16.945 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 15:43:17.223 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 15:43:26.304 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 15:43:26.308 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 15:43:28.264 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 5fd4496d-bdef-49c0-96bc-ce015eb235cb + ChannelName = ChannelOne
+2019-09-09 16:27:42.005 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 16:27:42.313 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:28:50.575 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 16:28:50.875 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:28:51.678 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 16:28:51.682 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 16:31:43.421 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 16:31:43.762 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 16:31:54.545 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 16:31:54.549 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 16:32:01.427 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 7de253b2-805f-463c-aa66-d5c11203a12d + ChannelName = ChannelOne
+2019-09-09 17:12:31.873 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 17:12:32.174 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:12:42.127 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 17:12:42.135 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 17:13:23.648 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 4bda0c41-37f9-4fb4-a89c-3916d4386e77 + ChannelName = ChannelOne
+2019-09-09 17:13:50.650 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message decbd73f-3c91-487e-8b1f-b91b30ad8b68 from ChannelName... ChannelOne.
+2019-09-09 17:17:20.582 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 17:17:20.914 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:17:38.273 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelTwo
+2019-09-09 17:17:38.278 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelTwo has become available...
+2019-09-09 17:18:04.591 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 17:18:04.595 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 17:18:11.813 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message 7ad26172-af43-4101-a5de-3ea43425be53 from ChannelName... ChannelOne.
+2019-09-09 17:18:18.959 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message 1f56f7a1-8f05-43bc-ae79-97594c151d82 from ChannelName... ChannelOne.
+2019-09-09 17:18:20.322 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message 286eea1e-08ac-4fdf-9d7e-7def8b688cac from ChannelName... ChannelOne.
+2019-09-09 17:18:21.179 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message 0910613d-620c-473c-9f20-67ef1bd85f9c from ChannelName... ChannelOne.
+2019-09-09 17:30:31.750 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 17:30:32.008 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:57:59.512 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 17:57:59.825 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:58:34.683 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 17:58:35.011 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 17:59:45.799 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 17:59:51.487 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 18:00:54.432 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 18:00:54.737 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 18:03:17.553 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 18:03:17.865 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:14.137 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 19:36:15.509 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:36:26.764 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 19:36:26.785 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 19:36:35.293 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 88efe37c-307d-4692-be00-22ce49aa9ff1 + ChannelName = ChannelOne
+2019-09-09 19:37:34.444 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 19:37:34.733 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:37:57.891 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 19:37:57.897 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 19:38:01.439 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 696d4149-b6d5-4c53-a32a-1b5ed649ca93 + ChannelName = ChannelOne
+2019-09-09 19:38:28.577 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 19:38:28.895 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:38:46.153 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelTwo
+2019-09-09 19:38:46.163 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelTwo has become available...
+2019-09-09 19:38:47.859 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 3621171f-722b-4d18-8788-a7b578600d52 + ChannelName = ChannelTwo
+2019-09-09 19:39:00.417 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-09 19:39:00.611 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-09-09 19:42:08.825 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 19:42:09.146 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:42:18.403 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 19:42:18.409 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 19:42:22.756 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 92b2c904-46b2-4d25-9e68-ae91e08aef01 + ChannelName = ChannelOne
+2019-09-09 19:42:37.673 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message b59f481e-077d-4833-9943-091f8e26d5cf from ChannelName... ChannelTwo.
+2019-09-09 19:42:40.526 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message 41fdcc86-c831-4ad0-bf64-4ce50de805ad from ChannelName... ChannelTwo.
+2019-09-09 19:42:41.801 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message 1c97b4a1-8690-4127-b2ee-0039e9d7cf8c from ChannelName... ChannelTwo.
+2019-09-09 19:42:50.593 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message 83558e1c-0a77-4bbc-8cb7-3f4bc0131a5b from ChannelName... ChannelOne.
+2019-09-09 19:48:19.893 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 19:48:20.219 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:48:29.132 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelTwo
+2019-09-09 19:48:29.143 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelTwo has become available...
+2019-09-09 19:48:34.099 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 2dd852ce-989e-463a-9bf8-4b388fc3f48d + ChannelName = ChannelTwo
+2019-09-09 19:52:17.608 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 19:52:17.843 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:52:28.829 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelTwo
+2019-09-09 19:52:28.833 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelTwo has become available...
+2019-09-09 19:52:33.037 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 3423bca6-fc75-4527-93b8-d3267880ae10 + ChannelName = ChannelTwo
+2019-09-09 19:55:06.282 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 19:55:06.541 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:55:19.883 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelTwo
+2019-09-09 19:55:19.892 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelTwo has become available...
+2019-09-09 19:55:51.346 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = b5564c29-11f6-4eb9-8899-f7fcca0946e5 + ChannelName = ChannelTwo
+2019-09-09 19:58:01.298 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 19:58:01.558 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 19:58:12.192 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelTwo
+2019-09-09 19:58:12.204 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelTwo has become available...
+2019-09-09 19:58:14.905 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = efea64e2-1af4-4a72-a8d3-01fc4d412c84 + ChannelName = ChannelTwo
+2019-09-09 19:58:15.334 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message '629ed043-3d72-402f-b1c3-aac30138a0ed' because of an exception:
+System.Exception: Events can have multiple recipient so they should be published.
+   at NServiceBus.Validations.AssertIsValidForSend(Type messageType) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Routing\MessagingBestPractices\Validations.cs:line 23
+   at NServiceBus.EnforceSendBestPracticesBehavior.Invoke(IOutgoingSendContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Routing\MessagingBestPractices\EnforceSendBestPracticesBehavior.cs:line 18
+   at (Closure`2 , IOutgoingSendContext )
+   at NServiceBus.Pipeline`1.Invoke(TContext context) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Pipeline.cs:line 32
+   at NServiceBus.MessageOperations.SendMessage(IBehaviorContext context, Type messageType, Object message, SendOptions options) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Unicast\MessageOperations.cs:line 95
+   at NServiceBus.MessageOperations.Send(IBehaviorContext context, Object message, SendOptions options) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Unicast\MessageOperations.cs:line 86
+   at NServiceBus.IncomingContext.Send(Object message, SendOptions options) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\IncomingContext.cs:line 26
+   at NServiceBus.IPipelineContextExtensions.Send(IPipelineContext context, Object message) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\IPipelineContextExtensions.cs:line 21
+   at Subscriber.RegisterSubscriberHandler.Handle(RegisterSubscriber message, IMessageHandlerContext context) in C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\RegisterSubscriberHandler.cs:line 28
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 16
+   at (Closure`2 , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 48
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 33
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 34
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.LearningTransportMessagePump.<ProcessFile>d__10.MoveNext() in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 279
+2019-09-09 20:04:41.461 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 20:04:41.753 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:04:52.329 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelTwo
+2019-09-09 20:04:52.336 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelTwo has become available...
+2019-09-09 20:05:36.698 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 20:05:36.705 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 20:05:42.256 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 2740c1a0-e0e8-46a4-865f-343f6192ccf6 + ChannelName = ChannelTwo
+2019-09-09 20:05:53.033 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message ef810de0-a24c-4f1c-b11f-4f95a92184c3 from ChannelName... ChannelOne.
+2019-09-09 20:05:57.698 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message 7963d427-0511-4e4a-b03b-c2fabc1e89ba from ChannelName... ChannelOne.
+2019-09-09 20:05:59.511 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message 178f5040-cb84-4ff4-964e-8a137cdd7d74 from ChannelName... ChannelOne.
+2019-09-09 20:07:10.929 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-09-09 20:07:11.179 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-09-09 20:07:35.657 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 20:07:35.917 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:07:42.762 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 20:07:42.766 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 20:07:51.897 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelTwo
+2019-09-09 20:07:51.901 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelTwo has become available...
+2019-09-09 20:07:57.046 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 3bac7bb1-94f1-4a21-909c-b455fe392726 + ChannelName = ChannelOne
+2019-09-09 20:50:52.202 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 20:50:52.520 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:50:59.378 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 20:50:59.390 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 20:51:05.876 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelTwo
+2019-09-09 20:51:05.880 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelTwo has become available...
+2019-09-09 20:51:17.409 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 3ee666b7-b671-4949-97f2-5e13863c6a5e + ChannelName = ChannelOne
+2019-09-09 20:59:09.305 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 20:59:09.608 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 20:59:17.428 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 20:59:17.436 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 20:59:21.747 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelTwo
+2019-09-09 20:59:21.753 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelTwo has become available...
+2019-09-09 20:59:24.566 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = ec062f35-d86b-4078-91dc-db421b8f14f9 + ChannelName = ChannelOne
+2019-09-09 21:02:18.001 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 21:02:18.289 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:02:27.394 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 21:02:27.401 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 21:02:31.650 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelTwo
+2019-09-09 21:02:31.657 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelTwo has become available...
+2019-09-09 21:02:36.849 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = c59a6dda-8f94-42b8-8ec9-88993062f610 + ChannelName = ChannelTwo
+2019-09-09 21:04:43.174 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 21:04:43.465 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:04:56.671 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 21:04:56.679 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 21:05:06.631 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 63a15206-8318-4031-b8e9-1d04c4b71d90 + ChannelName = ChannelOne
+2019-09-09 21:17:20.150 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 21:17:20.426 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:17:28.187 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 21:17:28.200 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 21:17:31.112 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = cd40fb0e-814b-4f81-ae87-14cfb18a0b66 + ChannelName = ChannelOne
+2019-09-09 21:20:16.412 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 21:20:16.791 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:20:25.631 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelOne
+2019-09-09 21:20:25.638 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelOne has become available...
+2019-09-09 21:20:29.122 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = 5c49ff30-1d4e-4f3e-b3e4-dfc5075ef5f6 + ChannelName = ChannelOne
+2019-09-09 21:22:27.121 INFO  DefaultFactory Logging to 'C:\Users\Chetana.Prabhu\Source\Repos\MessageBusFunProject\MessageBusFun\Subscriber\bin\Debug\' with level Info
+2019-09-09 21:22:27.410 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-09-03'.
+
+2019-09-09 21:22:39.483 INFO  Subscriber.ChannelAvailabilityChangedHandler Received Channel availability changed notification.... ChannelName = ChannelTwo
+2019-09-09 21:22:39.490 INFO  Subscriber.ChannelAvailabilityChangedHandler ChannelTwo has become available...
+2019-09-09 21:22:41.934 INFO  Subscriber.RegisterSubscriberHandler Received Registration request, SubscriberID = fb0900b4-c181-4d03-a1a1-599a6f58c8fa + ChannelName = ChannelTwo
+2019-09-09 21:23:20.155 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message d83d03be-5f41-4a8d-9a1d-d0bd47ee6feb from ChannelName... ChannelOne.
+2019-09-09 21:23:22.104 INFO  Subscriber.ReceivedMessagesHandler Subscriber has received message b46a3d61-3752-45e5-a40f-f2668ef87e97 from ChannelName... ChannelOne.
